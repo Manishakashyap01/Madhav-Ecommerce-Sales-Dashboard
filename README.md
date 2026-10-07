@@ -2,10 +2,7 @@
 
 A Power BI dashboard that analyses the sales performance of **Madhav Store**, an ecommerce business selling clothing, furniture and electronics across India. This repository contains the dashboard and a short presentation summarising its findings.
 
- Dashboard Preview
-
-![Madhav Ecommerce Sales Dashboard](images/dashboard.png)
-
+ 
  Key Metrics
 
  Metric      -     Value 
@@ -51,10 +48,9 @@ A Power BI dashboard that analyses the sales performance of **Madhav Store**, an
 
 
  Author
-
 Manisha Kashyap – 
 GitHub - Manishakashyap01
-LinkedIn:
+LinkedIn:https://www.linkedin.com/in/manisha-kashyap-727033416
 
 
 This project is for learning and portfolio purposes.
