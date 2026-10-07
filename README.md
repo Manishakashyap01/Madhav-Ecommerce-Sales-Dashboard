@@ -1,17 +1,17 @@
- Madhav Store – Ecommerce Sales Dashboard
+Madhav Store – Ecommerce Sales Dashboard
+
+Objective
 
 A Power BI dashboard that analyses the sales performance of **Madhav Store**, an ecommerce business selling clothing, furniture and electronics across India. This repository contains the dashboard and a short presentation summarising its findings.
 
  
  Key Metrics
 
- Metric      -     Value 
-
- Total Amount (Sales) - ₹438K 
- Total Quantity Sold - 6K units 
- Total Profit - ₹37K 
- Profit Margin - ~8.4% 
- Sum of AOV - 121K 
+- Total Amount (Sales) - ₹438K
+- Total Quantity Sold - 6K units 
+- Total Profit - ₹37K 
+- Profit Margin - ~8.4% 
+- Sum of AOV - 121K 
 
  What the Dashboard Shows
 
@@ -49,7 +49,7 @@ A Power BI dashboard that analyses the sales performance of **Madhav Store**, an
 
  Author
 Manisha Kashyap – 
-GitHub - Manishakashyap01
+GitHub - (https://github.com/Manishakashyap01)
 LinkedIn:https://www.linkedin.com/in/manisha-kashyap-727033416
 
 
